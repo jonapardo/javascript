@@ -25,7 +25,7 @@ def HolaMundo{
 Existen dos tipos 
 1. var=> Es una variable global se puede 
 utilizar en toda la vida del programadoro
-o todos los Iso alacance.
+o todos los Iso alacancee.
 2. let=> Es una varible privada que se
 utiliza en una parte especifica de mi 
 programa eso quiere decir que es una 
